@@ -1,14 +1,15 @@
 print("Hello World!")
 print("Bye World!")
 
-#print first drink
+#print favorite drink
 print("boba tea")
 
-#print first food
+#print favorite food
 print("chicken parmesan")
 
-#print first band
+#print first favorite band
 print("BTS")
 
-#print second band
+#print second favorite band
 print("NCT")
+
