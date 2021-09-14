@@ -1,15 +1,41 @@
-print("Hello World!")
-print("Bye World!")
+#define function
+def topFiveBands():
+    #print first band
+    print("BTS")
 
-#print favorite drink
-print("boba tea")
+      #print second band
+    print("NCT")
 
-#print favorite food
-print("chicken parmesan")
+  #print third band
+    print("Twice")
 
-#print first favorite band
-print("BTS")
+      #print fourth band
+    print("Shinee")
 
-#print second favorite band
-print("NCT")
+      #print fifth band
+    print("Enhypen")
+
+topFiveBands()
+print("IU")
+
+def topThreeShows():
+    #print first show
+    print("ATLA")
+
+    #print second show
+    print("Blue Exorcist")
+
+    #print third show
+    print("It's Okay to Not Be Okay")
+
+topThreeShows()
+
+
+
+
+
+
+
+
+
 
