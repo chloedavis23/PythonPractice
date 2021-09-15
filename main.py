@@ -1,12 +1,12 @@
-#define function
+
 def topFiveBands():
     #print first band
     print("BTS")
 
-      #print second band
+    #print second band
     print("NCT")
 
-  #print third band
+     #print third band
     print("Twice")
 
       #print fourth band
@@ -14,9 +14,6 @@ def topFiveBands():
 
       #print fifth band
     print("Enhypen")
-
-topFiveBands()
-print("IU")
 
 def topThreeShows():
     #print first show
@@ -28,8 +25,68 @@ def topThreeShows():
     #print third show
     print("It's Okay to Not Be Okay")
 
-topThreeShows()
+print("IU")
 
+topThreeShows()
+topFiveBands()
+
+def fiveFavoriteThings(): 
+    #first favorite
+    print("K-Pop")
+
+    #second favorite
+    print("Good books")
+    
+    #third favorite
+    print("My family")
+
+    #fourth favorite
+    print("Thunder storms")
+
+    #fifth favorite
+    print("Chicken parmesan")
+
+fiveFavoriteThings()
+
+def topThreeBooks():
+    #first book
+    print("It Ends With Us")
+
+    #second book
+    print("Chain of Gold")
+
+    #third book
+    print("Clockwork Prince")
+
+topThreeBooks()
+
+def topThreeFoods():
+    #first food
+    print("Chicken parmesan")
+
+    #second food
+    print("Glazed donuts")
+
+    #third food
+    print("Kimchi and rice")
+
+topThreeFoods()
+
+def topFourSingers(): 
+    #first singer
+    print("Jeon Jungkook")
+
+    #second singer
+    print("Onew")
+
+    #third singer
+    print("IU")
+
+    #fourth singer
+    print("Taeyon")
+
+topFourSingers()
+    
 
 
 
