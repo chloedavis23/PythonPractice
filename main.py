@@ -87,8 +87,11 @@ def topFourSingers():
 
 topFourSingers()
     
+def myNameIs(crayon):
+    print(crayon + " is my name.")
 
-
+myNameIs("Chloe")
+myNameIs("Osowski")
 
 
 
